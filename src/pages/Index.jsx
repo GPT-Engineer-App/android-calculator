@@ -34,7 +34,7 @@ const Index = () => {
   };
 
   return (
-    <Container maxW="container.md" centerContent>
+    <Container maxW="container.md" centerContent bg="black" color="white">
       <VStack spacing={4} mt="20">
         <Text fontSize="2xl" fontWeight="bold">
           Calculator
